@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo Camargo\\source\\repos\\TesteControleVersao\\TesteControleVersao\\TesteControleVersao.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo Camargo\\Source\\Repos\\TesteControleVersao2\\TesteControleVersao\\TesteControleVersao.csproj",
       "projectName": "TesteControleVersao",
-      "projectPath": "C:\\Users\\Rodrigo Camargo\\source\\repos\\TesteControleVersao\\TesteControleVersao\\TesteControleVersao.csproj",
+      "projectPath": "C:\\Users\\Rodrigo Camargo\\Source\\Repos\\TesteControleVersao2\\TesteControleVersao\\TesteControleVersao.csproj",
       "packagesPath": "C:\\Users\\Rodrigo Camargo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo Camargo\\source\\repos\\TesteControleVersao\\TesteControleVersao\\obj\\",
+      "outputPath": "C:\\Users\\Rodrigo Camargo\\Source\\Repos\\TesteControleVersao2\\TesteControleVersao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
