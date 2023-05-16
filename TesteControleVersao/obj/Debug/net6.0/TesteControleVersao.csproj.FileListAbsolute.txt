@@ -13,3 +13,18 @@ C:\Users\Rodrigo Camargo\source\repos\TesteControleVersao\TesteControleVersao\ob
 C:\Users\Rodrigo Camargo\source\repos\TesteControleVersao\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.pdb
 C:\Users\Rodrigo Camargo\source\repos\TesteControleVersao\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.genruntimeconfig.cache
 C:\Users\Rodrigo Camargo\source\repos\TesteControleVersao\TesteControleVersao\obj\Debug\net6.0\ref\TesteControleVersao.dll
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\bin\Debug\net6.0\TesteControleVersao.exe
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\bin\Debug\net6.0\TesteControleVersao.deps.json
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\bin\Debug\net6.0\TesteControleVersao.runtimeconfig.json
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\bin\Debug\net6.0\TesteControleVersao.dll
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\bin\Debug\net6.0\TesteControleVersao.pdb
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.csproj.AssemblyReference.cache
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.AssemblyInfoInputs.cache
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.AssemblyInfo.cs
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.csproj.CoreCompileInputs.cache
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.dll
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\refint\TesteControleVersao.dll
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.pdb
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\TesteControleVersao.genruntimeconfig.cache
+C:\Users\leona\Source\Repos\TesteControleVersao3\TesteControleVersao\obj\Debug\net6.0\ref\TesteControleVersao.dll
