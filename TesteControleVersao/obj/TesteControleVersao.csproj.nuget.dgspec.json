@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\Source\\Repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj": {}
+    "C:\\Users\\leona\\source\\repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\Source\\Repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj": {
+    "C:\\Users\\leona\\source\\repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Source\\Repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\source\\repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj",
         "projectName": "TesteControleVersao",
-        "projectPath": "C:\\Users\\leona\\Source\\Repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj",
+        "projectPath": "C:\\Users\\leona\\source\\repos\\TesteControleVersao3\\TesteControleVersao\\TesteControleVersao.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\leona\\Source\\Repos\\TesteControleVersao3\\TesteControleVersao\\obj\\",
         "projectStyle": "PackageReference",
